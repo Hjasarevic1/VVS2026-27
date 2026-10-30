@@ -9,6 +9,8 @@ using LoanManagement.Storage;
 
 namespace LoanManagement
 {
+    //TODO: Damir
+
     class Program
     {
         static DbClass db = new DbClass();
