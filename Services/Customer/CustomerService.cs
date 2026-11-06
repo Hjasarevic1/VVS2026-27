@@ -52,6 +52,7 @@ namespace LoanManagement.Services.Customer
             return x1;
         }
 
+        //Testiranje
         public string GetCustomerDetails(int customerId)
         {
             Kupac k = _db.GetCustomer(customerId);
